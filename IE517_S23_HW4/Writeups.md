@@ -75,3 +75,5 @@ The following is the residual plot:
 Genearlly, Ridge model is not good at feature selecting. Though, it could optimize and give us a genearlly good prediction, it's hard when we try to interpreting the features. (Since we might want to make some decisions, i.e. buy houses). On the other hand, LASSO clearly tell us what features are bad and should be exluded. It actually turns out drop most of the noise features. 
 
 Finally, after fitting the LASSO model, we could manually drop those bad features and fit linear regression model again. The process could give us better prediction and R2.
+
+[Github Link](https://github.com/Aaronlalala/Code-IE-517-ML-in-Finance/blob/main/IE517_S23_HW4/Homework%204.ipynb)
