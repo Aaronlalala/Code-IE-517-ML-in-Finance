@@ -2,6 +2,8 @@
 
  Zhicheng Tang zt17
 
+The proportion of the response is a little imbalance.
+
 # **Part 1: Random test train splits**
 
 | In-sample mean | In-sample variance | Out-sample mean | Out-sample variance |
@@ -25,4 +27,4 @@ For the efficiency, I think if they both run the same number of iterations, like
 
 **Part 4: Appendix**
 
-Link to github repo
+[Link to github repo](https://github.com/Aaronlalala/Code-IE-517-ML-in-Finance/blob/main/IE517_S23_HW6/Homework%206.ipynb)
