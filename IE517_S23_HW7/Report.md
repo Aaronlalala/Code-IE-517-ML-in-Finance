@@ -68,3 +68,4 @@ d) Since random forest is a little bit black-box, we can specifically see the ca
 
 # Part 4: Appendix
 
+[Github](https://github.com/Aaronlalala/Code-IE-517-ML-in-Finance/blob/main/IE517_S23_HW7/Random_Forest.ipynb)
